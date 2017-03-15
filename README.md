@@ -1,4 +1,4 @@
-#Background 
+# Background 
 
 Each Web server routinely logs accesses from other Web servers and browsers. The log is a text file in which each line contains a date and a hostname. Each date is logged in the format dd/mm/yyyy. 
 
@@ -18,7 +18,7 @@ A new FCC regulation requires that we track access by country, being able to dem
 16.67 de
 50.00 uk
 ```
-#Specification
+# Specification
 
 Given a start date, an end date, and one or more log files, the program is to determine the percentage of access from each TLD during that period, outputting the final percentages on standard output, as shown above.
 
